@@ -7,9 +7,9 @@ The model is accurate, and since we used the CNN architecture, it’s also compu
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
 The suggested model is created in three stages:
-a) Data Pre-Processing
-b) CNN Model Training
-c) Applying the Face Mask Detector - to distinguish the appearance into “With Face Mask” and “Without Face Mask”
+1. Data Pre-Processing
+2. CNN Model Training
+3. Applying the Face Mask Detector - to distinguish the appearance into “With Face Mask” and “Without Face Mask”
 
 In order to curb the COVID-19 pandemic from spreading, this publication suggests a face mask 
 identification system for still photos and live video that can detect whether a person is wearing a mask automatically. The suggested system can determine if a face mask is present or not using Keras, OpenCV, and CNN, and the model provides accurate and prompt results. An accuracy of about 97% is produced by the trained model.
