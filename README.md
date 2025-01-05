@@ -16,7 +16,7 @@ identification system for still photos and live video that can detect whether a 
 
 Download the Dataset : https://drive.google.com/drive/folders/1ehhreW2E2WxUr-HHpKcFFRJAFI_fQju6?usp=sharing
 
-Technology / Framework used:
+# Technology / Framework used:
 
 1. Pythonn
 2. Machine Learning
@@ -29,7 +29,7 @@ Technology / Framework used:
 9. Streamlit
 10. Usecase
 
-Instruction - Procedure / Flow of the Project to Execute the code:
+# Instruction - Procedure / Flow of the Project to Execute the code:
 
 1. Load the provided folder in the google drive 
 2. Run the Model_Training.py file first
@@ -40,7 +40,7 @@ Instruction - Procedure / Flow of the Project to Execute the code:
 7. Then Load the trained model that you saved as .h5 extension (Point 4) from your drive (Cell 8 - Testing)
 8. Read any image from the dataset of images provided with and without mask in single or group images and test (Cell 18 - Testing) 
 
-Overview:
+# Overview:
 
 ![Screenshot 2025-01-05 151055](https://github.com/user-attachments/assets/ad9d640a-4bea-4f89-a5d5-8101d9bc1ae8)
 ![Screenshot 2025-01-05 151113](https://github.com/user-attachments/assets/67db7c3a-c1f2-4d62-85dd-845f42be33bc)
