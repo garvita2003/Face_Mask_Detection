@@ -14,7 +14,7 @@ The suggested model is created in three stages:
 In order to curb the COVID-19 pandemic from spreading, this publication suggests a face mask 
 identification system for still photos and live video that can detect whether a person is wearing a mask automatically. The suggested system can determine if a face mask is present or not using Keras, OpenCV, and CNN, and the model provides accurate and prompt results. An accuracy of about 97% is produced by the trained model.
 
-Download the Dataset : https://drive.google.com/drive/folders/1ehhreW2E2WxUr-HHpKcFFRJAFI_fQju6?usp=sharing
+Download the Dataset : [Dataset](https://drive.google.com/drive/folders/1TF-20w7rVJ-GPRFSvFNvNn5D_yx6o1wm?usp=sharing)
 
 # Technology / Framework used:
 
